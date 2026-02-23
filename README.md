@@ -1,5 +1,12 @@
 # auto-flow-service-53
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-flow-service-53/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-flow-service-53/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-flow-service-53)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-flow-service-53)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-flow-service-53)
+
 ## Detailed Description
 
 auto-flow-service-53 is maintained as an industry-grade software project with production-ready engineering practices.  
